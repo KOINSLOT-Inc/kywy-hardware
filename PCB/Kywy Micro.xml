@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Joe\Desktop\Kywy-Micro\Kywy Micro.kicad_sch</source>
+    <date>4/27/2024 10:48:45 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>KYWY MICRO</title>
+        <company>Koinslot INC.</company>
+        <rev>0.1</rev>
+        <date>2024-04-26</date>
+        <source>Kywy Micro.kicad_sch</source>
+        <comment number="1" value="Joseph Lannan"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BOOTSEL1">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fec9043-2e57-4a79-9a85-448653cf6788</tstamps>
+    </comp>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>easyeda2kicad:CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C160402</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="JLCPCB Part #（optional）" value="C160402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac22a7d7-1265-4d77-9e22-ea9b24c60e03</tstamps>
+    </comp>
+    <comp ref="BTN1">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18d76906-6d0a-476b-bf29-d4edcd655ca8</tstamps>
+    </comp>
+    <comp ref="BTN2">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1ada7f-9113-4ae5-96ce-973366641056</tstamps>
+    </comp>
+    <comp ref="BTN3">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90af621d-f453-4988-809d-a4066634ef48</tstamps>
+    </comp>
+    <comp ref="BTN4">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d09b116b-1cab-483a-b5ac-b341708d6e53</tstamps>
+    </comp>
+    <comp ref="BTN5">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fdd441c-8e64-49f0-8b45-1e8d33a7a530</tstamps>
+    </comp>
+    <comp ref="BTN6">
+      <value>SW_Push</value>
+      <footprint>easyeda2kicad:SW-SMD_L3.9-W3.0-P4.45</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C720477</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="JLCPCB Part #（optional）" value="C720477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b1ce487-496e-4f11-8494-8196dc684314</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba3b1f21-a10f-4c23-bd14-2d2bee49930f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C14445</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a6a553f-d315-456e-b441-ca9248ff0a2b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>422cd936-05d4-4b54-a5e4-c67ff24a538a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8aad720-8984-468a-bc90-6c9ecd60a29c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f771f8c-d5f9-4f5b-9566-8b32332a71a5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac91a7cf-e34a-49e6-bd41-6cba6069fc90</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0835c7b-87e9-461b-9d34-fc98765d04f1</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718d79df-26f9-4bc8-b8f6-fe4994cd51fe</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>613f785f-da94-4801-8de5-4d6d27afdd71</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1548</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1548"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21d6abf0-fbf5-47ad-a602-1711f80ecb29</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>15p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1548</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1548"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d67a2795-ea2b-4b97-8cc3-607180d10743</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C14445</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14cab2df-2a72-49e9-99c4-3a9b0c0b9c63</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cc1d32a-db69-4e27-8226-873520d83fc7</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d2fdf54-bc2c-42ab-9f64-dcc54a563d58</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a59e0c77-cdd5-4300-b545-cea15e241aca</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d7472b4-26da-4dbe-87dd-e009dd4a4ab2</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ebd266f-b869-4947-a10e-12967b719117</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a3d46f-e9e8-48bd-bdea-39438dbcb5e3</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2adf400-efff-47fa-b0b4-238f7a5f3866</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac1ec20-aed1-4d6f-af91-3623fcf97e2f</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB Part #（optional）" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abe0305b-8428-48df-96a8-833f6b42975e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819</value>
+      <footprint>easyeda2kicad:SOD-323_L1.6-W1.3-LS2.7-RD</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C316054</field>
+      </fields>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="JLCPCB Part #（optional）" value="C316054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86b047e4-1db0-423a-a6a6-4e390cf308cf</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5819</value>
+      <footprint>easyeda2kicad:SOD-323_L1.6-W1.3-LS2.7-RD</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C316054</field>
+      </fields>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="JLCPCB Part #（optional）" value="C316054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c874b4a7-0fc5-457c-aee0-4ce421aab6df</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>0603ESDA-05N</value>
+      <footprint>easyeda2kicad:D0603-BI</footprint>
+      <datasheet>https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2927280</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="0603ESDA-05N" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2927280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>112f9730-94d5-43f8-958d-95d9a7b472e8</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>0603ESDA-05N</value>
+      <footprint>easyeda2kicad:D0603-BI</footprint>
+      <datasheet>https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2927280</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="0603ESDA-05N" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2927280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b37a4b6-2c95-46c3-85b3-ebe3320ad359</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>0603ESDA-05N</value>
+      <footprint>easyeda2kicad:D0603-BI</footprint>
+      <datasheet>https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2927280</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="0603ESDA-05N" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2927280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85f7f756-832a-4e62-9445-0b4fae1e9563</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>0603ESDA-05N</value>
+      <footprint>easyeda2kicad:D0603-BI</footprint>
+      <datasheet>https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2927280</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="0603ESDA-05N" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2927280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf86ab0c-96d4-4f07-a216-dca09e5d1a57</tstamps>
+    </comp>
+    <comp ref="DEBUG1">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="JLCPCB Part #（optional）" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f1c045e-2dab-4d0b-98b2-e032590f1ab5</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>BSMD0603L-100</value>
+      <footprint>easyeda2kicad:F0603</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2757929</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="BSMD0603L-100" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2757929"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>294fae90-55f0-46c2-9c6d-c90ad4b37b51</tstamps>
+    </comp>
+    <comp ref="I2C1">
+      <value>JST PH 01x04 QT</value>
+      <footprint>easyeda2kicad:CONN-SMD_B4B-PH-SM4-TB-LF-SN</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C265102</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="JLCPCB Part #（optional）" value="C265102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f09e83a5-db54-433c-b22a-5ea670ab5414</tstamps>
+    </comp>
+    <comp ref="LCD1">
+      <value>Conn_01x10_Pin</value>
+      <footprint>easyeda2kicad:FPC-SMD_P0.5-10P_FGS-XJ-H2.0</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C262659</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Pin" description="Generic connector, single row, 01x10, script generated"/>
+      <property name="JLCPCB Part #（optional）" value="C262659"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x10, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0afbd83e-56cd-4b27-9bcd-7b6587144d53</tstamps>
+    </comp>
+    <comp ref="POWER1">
+      <value>SW_SPST</value>
+      <footprint>easyeda2kicad:SW-SMD_3P-P1.50_L2.7-W6.6</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB Part #（optional）" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8108996-44d1-4f4b-8374-d8891335fb57</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k2</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25862</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25862"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebd58b5d-0665-4028-8587-790057e670cc</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25755</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25755"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0e725f2-c8a2-48fb-82c9-29e93952b313</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25100</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b465a31-de4f-4db9-b39f-6401e57afa60</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25100</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d293e8-0b48-48d4-b536-b138f0e281c4</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25755</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25755"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc30b7e5-2446-41df-9a00-d03e4fe1cbe9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>448198a7-bed9-40e7-9416-7dea48d0ba4b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc73d9c7-350d-4db7-8609-941791d3c532</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C25755</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C25755"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eafde90-9adc-4214-81d1-6687ef88c812</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcbd7f6b-9d7f-4493-b8ef-5fa315ee65f4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>84k5</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C26988</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C26988"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718229a9-1891-4496-a606-fc6c1a24d8c5</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>585618f9-c403-40a2-95c7-eb4835cc37f9</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C11702</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB Part #（optional）" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e3c8ec1-1eab-4475-99b3-e68042de73e9</tstamps>
+    </comp>
+    <comp ref="SPI1">
+      <value>Conn_01x07_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x07_Pin" description="Generic connector, single row, 01x07, script generated"/>
+      <property name="JLCPCB Part #（optional）" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x07, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ad00882-cfb7-4db4-af13-cd8c22e37421</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TP4056-MS</value>
+      <footprint>easyeda2kicad:SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C7473158</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="TP4056-MS" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C7473158"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e1b6496-4265-4364-b1c1-dadce33b2c28</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>CYA0630-4.7UH</value>
+      <footprint>easyeda2kicad:IND-SMD_L4.0-W4.0</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C5189748</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="CYA0630-4.7UH" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C5189748"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc59051e-c213-474e-a3a6-fbb831a45f57</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>RP2040</value>
+      <footprint>Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2040</field>
+      </fields>
+      <libsource lib="MCU_RaspberryPi" part="RP2040" description="A microcontroller by Raspberry Pi"/>
+      <property name="JLCPCB Part #（optional）" value="C2040"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="A microcontroller by Raspberry Pi"/>
+      <property name="ki_keywords" value="RP2040 ARM Cortex-M0+ USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47d4a657-4c94-41d7-a864-381ea979f2ed</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MT3540</value>
+      <footprint>easyeda2kicad:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR</footprint>
+      <datasheet>https://lcsc.com/product-detail/DC-DC-Converters_MT3540_C181744.html</datasheet>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C181744</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="MT3540" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C181744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e202bdba-9464-4330-b807-0028d7ed39a4</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>NTR0202PLT1G_C5197330</value>
+      <footprint>easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C5197330</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="NTR0202PLT1G_C5197330" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C5197330"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>858d522e-24be-4ac7-a021-98d602d55e71</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>W25Q16JVUXIQ</value>
+      <footprint>easyeda2kicad:USON-8_L3.0-W2.0-P0.50-BL-EP</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2843335</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="W25Q16JVUXIQ" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2843335"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f489e9-d08b-4b98-8ade-8ac2a95bd1e0</tstamps>
+    </comp>
+    <comp ref="UART1">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="JLCPCB Part #（optional）" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc0d713b-a981-4f54-983c-a91bb0dcb4fb</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>TYPE-C 16PIN 2MD(073)</value>
+      <footprint>easyeda2kicad:USB-C-SMD_TYPE-C-6PIN-2MD-073</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C2765186</field>
+      </fields>
+      <libsource lib="easyeda2kicad" part="TYPE-C16PIN2MD(073)" description=""/>
+      <property name="JLCPCB Part #（optional）" value="C2765186"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dad31da3-ad2a-4aab-bb6f-3f3aec8acb49</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_GND24</value>
+      <footprint>Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #（optional）">C20625731</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="JLCPCB Part #（optional）" value="C20625731"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Kywy Micro.kicad_sch"/>
+      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0eee8ad-6614-4d8d-8c42-8168eb087b73</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x07_Pin">
+      <description>Generic connector, single row, 01x07, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Pin">
+      <description>Generic connector, single row, 01x10, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5819">
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi" part="RP2040">
+      <description>A microcontroller by Raspberry Pi</description>
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm?P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="passive"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="passive"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="passive"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="passive"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="passive"/>
+        <pin num="50" name="DVDD" type="passive"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="0603ESDA-05N">
+      <docs>https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">0603ESDA-05N</field>
+        <field name="Footprint">easyeda2kicad:D0603-BI</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Others_Bourne-Semicon-Shenzhen-0603ESDA-05N_C316054.html</field>
+        <field name="LCSC Part">C316054</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="BSMD0603L-100">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">BSMD0603L-100</field>
+        <field name="Footprint">easyeda2kicad:F0603</field>
+        <field name="LCSC Part">C2757929</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="CYA0630-4.7UH">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CYA0630-4.7UH</field>
+        <field name="Footprint">easyeda2kicad:IND-SMD_L7.2-W6.6_GPSR07X0</field>
+        <field name="LCSC Part">C5189748</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="MT3540">
+      <docs>https://lcsc.com/product-detail/DC-DC-Converters_MT3540_C181744.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MT3540</field>
+        <field name="Footprint">easyeda2kicad:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/DC-DC-Converters_MT3540_C181744.html</field>
+        <field name="LCSC Part">C181744</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="unspecified"/>
+        <pin num="2" name="GND" type="unspecified"/>
+        <pin num="3" name="FB" type="unspecified"/>
+        <pin num="4" name="EN" type="unspecified"/>
+        <pin num="5" name="VIN" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="NTR0202PLT1G_C5197330">
+      <fields>
+        <field name="Reference">U5</field>
+        <field name="Value">NTR0202PLT1G_C5197330</field>
+        <field name="Footprint">easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR</field>
+        <field name="LCSC Part">C5197330</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="unspecified"/>
+        <pin num="2" name="S" type="unspecified"/>
+        <pin num="3" name="D" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="TP4056-MS">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TP4056-MS</field>
+        <field name="Footprint">easyeda2kicad:SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP</field>
+        <field name="LCSC Part">C7473158</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TEMP" type="unspecified"/>
+        <pin num="2" name="PROG" type="unspecified"/>
+        <pin num="3" name="GND" type="unspecified"/>
+        <pin num="4" name="VCC" type="unspecified"/>
+        <pin num="5" name="BAT" type="unspecified"/>
+        <pin num="6" name="STDBY" type="unspecified"/>
+        <pin num="7" name="CHRG" type="unspecified"/>
+        <pin num="8" name="CE" type="unspecified"/>
+        <pin num="9" name="EP" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="TYPE-C16PIN2MD(073)">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">TYPE-C 16PIN 2MD(073)</field>
+        <field name="Footprint">easyeda2kicad:USB-C-SMD_TYPE-C-6PIN-2MD-073</field>
+        <field name="LCSC Part">C2765186</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="unspecified"/>
+        <pin num="2" name="VBUS" type="unspecified"/>
+        <pin num="3" name="SBU2" type="unspecified"/>
+        <pin num="4" name="CC1" type="unspecified"/>
+        <pin num="5" name="DN2" type="unspecified"/>
+        <pin num="6" name="DP1" type="unspecified"/>
+        <pin num="7" name="DN1" type="unspecified"/>
+        <pin num="8" name="DP2" type="unspecified"/>
+        <pin num="9" name="SBU1" type="unspecified"/>
+        <pin num="10" name="CC2" type="unspecified"/>
+        <pin num="11" name="VBUS" type="unspecified"/>
+        <pin num="12" name="GND" type="unspecified"/>
+        <pin num="13" name="SHELL" type="unspecified"/>
+        <pin num="14" name="SHELL" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="easyeda2kicad" part="W25Q16JVUXIQ">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q16JVUXIQ</field>
+        <field name="Footprint">easyeda2kicad:USON-8_L3.0-W2.0-P0.50-BL-EP</field>
+        <field name="LCSC Part">C2843335</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="unspecified"/>
+        <pin num="2" name="DO(IO1)" type="unspecified"/>
+        <pin num="3" name="WP#(IO2)" type="unspecified"/>
+        <pin num="4" name="GND" type="unspecified"/>
+        <pin num="5" name="DI(IO0)" type="unspecified"/>
+        <pin num="6" name="CLK" type="unspecified"/>
+        <pin num="7" name="HOLD#orRESET#(IO3)" type="unspecified"/>
+        <pin num="8" name="VCC" type="unspecified"/>
+        <pin num="9" name="EP" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/MCU_RaspberryPi.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="easyeda2kicad">
+      <uri>C:/Users/Joe/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Ind2">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U4" pin="1" pinfunction="SW" pintype="unspecified"/>
+    </net>
+    <net code="2" name="1.1V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U3" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U3" pin="50" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="3" name="3.3V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="I2C1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="LCD1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="LCD1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="SPI1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U3" pin="42" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U3" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U3" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U3" pin="49" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="VCC" pintype="unspecified"/>
+      <node ref="UART1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="4" name="5V USB">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="unspecified"/>
+      <node ref="U1" pin="8" pinfunction="CE" pintype="unspecified"/>
+      <node ref="USB1" pin="11" pinfunction="VBUS" pintype="unspecified"/>
+      <node ref="USB1" pin="2" pinfunction="VBUS" pintype="unspecified"/>
+    </net>
+    <net code="5" name="CLK">
+      <node ref="LCD1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="SPI1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="DATA_1">
+      <node ref="LCD1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="DATA_2">
+      <node ref="U3" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="DATA_3">
+      <node ref="U3" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="EXP1_CS">
+      <node ref="SPI1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="EXP2_CS">
+      <node ref="SPI1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="BOOTSEL1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BTN1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BTN2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BTN3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BTN4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BTN5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="BTN6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="D4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="D5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="D6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="DEBUG1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="I2C1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LCD1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LCD1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SPI1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="TEMP" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U1" pin="9" pinfunction="EP" pintype="unspecified"/>
+      <node ref="U3" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U3" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="unspecified"/>
+      <node ref="UART1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="unspecified"/>
+      <node ref="USB1" pin="12" pinfunction="GND" pintype="unspecified"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="12" name="GPI011">
+      <node ref="U1" pin="6" pinfunction="STDBY" pintype="unspecified"/>
+      <node ref="U3" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="GPIO0">
+      <node ref="U3" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="UART1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="14" name="GPIO1">
+      <node ref="U3" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+      <node ref="UART1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="15" name="GPIO2">
+      <node ref="BTN2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="GPIO3">
+      <node ref="BTN3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="GPIO4">
+      <node ref="I2C1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="GPIO5">
+      <node ref="I2C1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="GPIO6">
+      <node ref="BTN1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="GPIO7">
+      <node ref="BTN6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="GPIO8">
+      <node ref="BTN4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="GPIO9">
+      <node ref="BTN5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="GPIO10">
+      <node ref="U1" pin="7" pinfunction="CHRG" pintype="unspecified"/>
+      <node ref="U3" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="GPIO12">
+      <node ref="U3" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="GPIO13">
+      <node ref="U3" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="GPIO16">
+      <node ref="U3" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="GPIO17">
+      <node ref="LCD1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="GPIO19">
+      <node ref="LCD1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="SPI1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="GPIO20">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="LCD1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="LCD1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="SPI1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="GPIO24">
+      <node ref="U3" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="GPIO25">
+      <node ref="U3" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="GPIO26">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="GPIO27">
+      <node ref="U3" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="GPIO28">
+      <node ref="U3" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="GPIO29">
+      <node ref="U3" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(BOOTSEL1-Pad1)">
+      <node ref="BOOTSEL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U5" pin="2" pinfunction="S" pintype="unspecified"/>
+    </net>
+    <net code="39" name="Net-(DEBUG1-Pin_1)">
+      <node ref="DEBUG1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(DEBUG1-Pin_3)">
+      <node ref="DEBUG1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(POWER1-B)">
+      <node ref="POWER1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="D" pintype="unspecified"/>
+    </net>
+    <net code="42" name="Net-(U1-PROG)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PROG" pintype="unspecified"/>
+    </net>
+    <net code="43" name="Net-(U3-USB_DM)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="Net-(U3-USB_DP)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="Net-(U3-XIN)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(U3-XOUT)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(U4-FB)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="FB" pintype="unspecified"/>
+    </net>
+    <net code="48" name="Net-(U5-G)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="G" pintype="unspecified"/>
+    </net>
+    <net code="49" name="Net-(USB1-CC1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="CC1" pintype="unspecified"/>
+    </net>
+    <net code="50" name="Net-(USB1-CC2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="10" pinfunction="CC2" pintype="unspecified"/>
+    </net>
+    <net code="51" name="QSPI_SCLK">
+      <node ref="U3" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+      <node ref="U6" pin="6" pinfunction="CLK" pintype="unspecified"/>
+    </net>
+    <net code="52" name="QSPI_SD0">
+      <node ref="U3" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pinfunction="DI(IO0)" pintype="unspecified"/>
+    </net>
+    <net code="53" name="QSPI_SD1">
+      <node ref="U3" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="DO(IO1)" pintype="unspecified"/>
+    </net>
+    <net code="54" name="QSPI_SD2">
+      <node ref="U3" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="WP#(IO2)" pintype="unspecified"/>
+    </net>
+    <net code="55" name="QSPI_SD3">
+      <node ref="U3" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+      <node ref="U6" pin="7" pinfunction="HOLD#orRESET#(IO3)" pintype="unspecified"/>
+    </net>
+    <net code="56" name="QSPI_SS">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pinfunction="~{CS}" pintype="unspecified"/>
+    </net>
+    <net code="57" name="USB D+">
+      <node ref="D5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="6" pinfunction="DP1" pintype="unspecified"/>
+      <node ref="USB1" pin="8" pinfunction="DP2" pintype="unspecified"/>
+    </net>
+    <net code="58" name="USB D-">
+      <node ref="D6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="5" pinfunction="DN2" pintype="unspecified"/>
+      <node ref="USB1" pin="7" pinfunction="DN1" pintype="unspecified"/>
+    </net>
+    <net code="59" name="VBAT">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="POWER1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="BAT" pintype="unspecified"/>
+    </net>
+    <net code="60" name="VSELECT">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="EN" pintype="unspecified"/>
+      <node ref="U4" pin="5" pinfunction="VIN" pintype="unspecified"/>
+    </net>
+    <net code="61" name="unconnected-(U3-RUN-Pad26)">
+      <node ref="U3" pin="26" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U6-EP-Pad9)">
+      <node ref="U6" pin="9" pinfunction="EP" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(USB1-SBU1-Pad9)">
+      <node ref="USB1" pin="9" pinfunction="SBU1" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(USB1-SBU2-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="SBU2" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(USB1-SHELL-Pad13)">
+      <node ref="USB1" pin="13" pinfunction="SHELL" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(USB1-SHELL-Pad14)">
+      <node ref="USB1" pin="14" pinfunction="SHELL" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
